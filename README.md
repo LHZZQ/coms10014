@@ -2,4 +2,4 @@
 # University Of Bristol
 ## COMS10014 Mathmatic For Compoter Science A                           
 的所有课堂笔记  
-### Copyright Ziqiqn     
+### Copyright Ziqian     
